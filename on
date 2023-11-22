@@ -1,0 +1,2 @@
+  pools = get_pools(node_process, session, wallets)
+    logger.success(f'Готово! Всего сетей и пулов: {len(chains) + len(pools)}\n')
